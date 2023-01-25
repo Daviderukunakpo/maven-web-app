@@ -12,8 +12,8 @@
 	<description>Maven Web Project for Java Project</description>
 
 	<organization>
-		<name>Landmark Technologies</name>
-		<url>http://landmarktechnologies.com/</url>
+		<name>Rondus Technologies</name>
+		<url>http://RondusTech.com/</url>
 	</organization>
 
 	<properties>
@@ -28,7 +28,7 @@
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 
 		<properties>
-  <sonar.organization>mylandmarktechs</sonar.organization>
+  <sonar.organization>rondustech</sonar.organization>
   <sonar.host.url>https://sonarcloud.io</sonar.host.url>
 </properties>
 	</properties>
@@ -100,14 +100,14 @@
 	<distributionManagement>
 	    <repository>
 	      <id>nexus</id>
-	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://44.192.81.238:8888/mylandmarktech/repository/boa-release/</url>
+	      <name>Rondus Technologies Releases Nexus Repository</name>
+	      <url>http://44.192.81.238:8888/rondustech/repository/boa-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://44.192.81.238:8888/mylandmarktech/repository/boa-snapshot/</url>
+	      <name>Rondus Technologies Snapshot Nexus Repository </name>
+	      <url>http://44.192.81.238:8888/rondustech/repository/boa-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
