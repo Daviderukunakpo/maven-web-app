@@ -95,13 +95,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Rondus Technologies Releases Nexus Repository</name>
-	      <url>http://13.218.236.51:8081/rondustech/repository/boa-release/</url>
+	      <url>http://13.218.236.51:8081/repository/BOA-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Rondus Technologies Snapshot Nexus Repository </name>
-	      <url>http://13.218.236.51:8081/rondustech/repository/boa-snapshot/</url>
+	      <url>http://13.218.236.51:8081/repository/BOA-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
